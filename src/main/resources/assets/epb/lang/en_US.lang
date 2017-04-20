@@ -1,0 +1,6 @@
+item.epicSword.name=EpicSword
+item.epicPickaxe.name=EpicPickaxe
+
+tile.epicStone.name=EpicStone
+
+itemGroup.epb=EpicBattle

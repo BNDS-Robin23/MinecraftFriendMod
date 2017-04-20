@@ -1,0 +1,16 @@
+[
+{
+  "modid": "epb",
+  "name": "EpicBattle",
+  "description": "史诗战争模组，用于战争服务器",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Robin23"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
